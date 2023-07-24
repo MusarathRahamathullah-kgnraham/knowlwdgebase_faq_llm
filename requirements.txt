@@ -1,0 +1,6 @@
+boto3
+streamlit
+pdf2image
+ai21[SM]
+Pillow
+pandas
